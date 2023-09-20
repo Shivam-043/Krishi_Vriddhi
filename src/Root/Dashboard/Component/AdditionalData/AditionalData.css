@@ -1,0 +1,37 @@
+/* AdditionalData.css */
+.additional-data {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .additional-data h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .data-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .data-list li {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .data-label {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .data-value {
+    color: #007bff;
+  }
+  
